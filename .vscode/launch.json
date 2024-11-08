@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "${workspaceFolder}/venv/bin/python",    // 가상환경 경로 설정
-    "python.formatting.provider": "black",                        // 코드 포매터 설정
-    "python.linting.enabled": true                                // 린트 활성화
-  }
-  
